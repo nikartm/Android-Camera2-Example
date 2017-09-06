@@ -1,0 +1,38 @@
+# Android Studio
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+app/build/
+gradle/
+*.iml
+.idea
+
+# Build application files
+*.apk
+*.ap_
+*.dex
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.csv
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Windows thumbnail db
+Thumbs.db
+
+# Eclipse project files
+.classpath
+.project
+
+#NDK
+obj/
